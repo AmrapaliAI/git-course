@@ -40,6 +40,6 @@ public class Main {
         }
 
         System.out.println("Result: " + result);
-        scanner.close();
+        scanner.close();//calculation
     }
 }
